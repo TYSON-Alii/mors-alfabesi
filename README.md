@@ -1,1 +1,3 @@
-c++ için mors alfabesi oyunu,kelimelerin harflerini yazmak için beklemenize gerek yok
+c++ için mors alfabesi oyunu,
+
+v0 ilk c++ projelerimden v1 ise bir yıllık c++ tecrübem ile yazıldı.
